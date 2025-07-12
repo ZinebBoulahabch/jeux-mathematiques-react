@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # jeux-mathematiques-react
 =======
 # 🎮 Jeux de Mathématiques
