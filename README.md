@@ -1,5 +1,4 @@
 # jeux-mathematiques-react
-=======
 # 🎮 Jeux de Mathématiques
 
 Une collection complète de jeux éducatifs développés avec React et JavaScript pour améliorer vos compétences en mathématiques !
